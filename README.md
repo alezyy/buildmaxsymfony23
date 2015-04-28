@@ -1,2 +1,4 @@
-# buildmaxsymfony23
-Buildmax symfony 2.3
+my_project
+==========
+
+A Symfony project created on April 28, 2015, 2:12 pm.
